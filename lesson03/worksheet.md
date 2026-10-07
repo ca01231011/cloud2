@@ -9,7 +9,7 @@
 
 | リソースと条件 | 1か月の見積り | 動かしていない時間にも課金されるか |
 |--------------|-------------|------------------------------|
-| Static Web Apps（Free） | | |
+| Static Web Apps（Free） |  | |
 | Cosmos DB（Free tier の範囲内） | | |
 | App Service（Basic B1）を1か月動かし続ける | | |
 | Azure AI Search（Basic）を1か月 | | |
